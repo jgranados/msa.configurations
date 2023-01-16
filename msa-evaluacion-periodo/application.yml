@@ -1,5 +1,5 @@
 ConnectionStrings: 
-    MicroservicesClientConnectionString: Data Source=.;Initial Catalog=Library;Persist Security Info=True;User ID=galaxy;Password=Password123  
+    MicroservicesClientConnectionString: Data Source=.;Initial Catalog=LibraryMSA;Persist Security Info=True;User ID=galaxy;Password=Password123  
 JwtSettings: 
     Key: nskljgfdgokwernglsndgjknsñdjgnskjdfgnlkjsdnfskdjgsdjfkg
     Issuer: https://localhost:44323/
