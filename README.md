@@ -1,2 +1,2 @@
 # msa.configurations
-holi
+holitas
